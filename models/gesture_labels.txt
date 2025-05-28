@@ -1,0 +1,5 @@
+0,Closed Fist
+1,OK Sign
+2,Open Palm
+3,Peace Sign
+4,Thumbs Up
