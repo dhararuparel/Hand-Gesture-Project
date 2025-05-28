@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖐️ Hand Gesture Recognition
 
 A Python-based hand gesture recognition system using computer vision and machine learning. The project captures real-time video, detects hand gestures, and classifies them into predefined categories.
@@ -67,3 +68,7 @@ hand_gestures/
 
 # LICENSE
 This project is licensed under the MIT License.
+=======
+# Hand-Gesture-Project
+A real-time hand gesture recognition system using Python and OpenCV for touchless interaction.
+>>>>>>> 590f0be7bc68eb9b31a88b09f26b0f316b0c3500
